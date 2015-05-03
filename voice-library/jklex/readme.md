@@ -1,6 +1,6 @@
 # Jinkela EX Voice Library
 
-By [farter][1]
+By [farter][1]  
 Under WTFPL version 2, see `license.txt` for more details.
 
 ## Usage
